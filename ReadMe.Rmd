@@ -1,0 +1,20 @@
+---
+title: "ReadMe"
+author: "Jerry R. Nedelman"
+date: "February 2015"
+output: html_document
+---
+
+This is the repository for the Shiny app MeasureUp that was created for the
+Data Products course of Coursera.
+
+The two files for the app itself are ui.R and server.R.
+
+The folder shinyapps was created by publishing the app to the RStudio server 
+(https://jerrynedelman.shinyapps.io/MeasureUp/).
+
+The file MeasureUp.Rpres is an RStudio Presenter file describing the app, 
+and the other MeasureUp* files are associated with it and its
+publication on Rpubs (http://www.rpubs.com/nedelje1/59565). 
+
+
